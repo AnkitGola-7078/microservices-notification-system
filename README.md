@@ -236,13 +236,9 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## 👨‍💻 Author
 
 **Jawher Kallel**
-[GitHub @JawherKl](https://github.com/JawherKl)
+[GitHub @JawherKl](https://github.com/AnkitGola-7078)
 
 ---
 
 Made with ❤️ for scalable, real-world systems.
-
-## 🌟 Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/JawherKl/nodejs-microservices.svg?variant=adaptive)](https://starchart.cc/JawherKl/nodejs-microservices)
 
