@@ -235,7 +235,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-**Jawher Kallel**
+**Ankit Gola**
 [GitHub @AnkitGola-7078](https://github.com/AnkitGola-7078)
 
 ---
